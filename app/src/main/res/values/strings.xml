@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Application</string>
+    <string name="second_screen_text">This is the second screen</string>
+</resources>
